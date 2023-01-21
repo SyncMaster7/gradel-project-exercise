@@ -1,13 +1,13 @@
 package exercise;
 
-public abstract class Vehicle {
+public abstract class MeansOfTransport {
     private String mark;
     private String model;
     private int yearOfManufacture;
     private int weight;
 
 
-    public Vehicle(String mark, String model, int yearOfManufacture, int weight) {
+    public MeansOfTransport(String mark, String model, int yearOfManufacture, int weight) {
         this.mark = mark;
         this.model = model;
         this.yearOfManufacture = yearOfManufacture;
