@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="097e49ea-16c5-4b16-86a1-38e955eff4c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/CargoHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/ExerciseMainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/MeansOfTransport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/Movement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/PrintingInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="097e49ea-16c5-4b16-86a1-38e955eff4c5" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +71,17 @@
       <option name="presentableId" value="Default" />
       <updated>1674295349951</updated>
     </task>
+    <task id="LOCAL−00001" summary="Initial commit">
+      <created>1674313670015</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1674313670015</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
