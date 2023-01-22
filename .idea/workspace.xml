@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="097e49ea-16c5-4b16-86a1-38e955eff4c5" name="Changes" comment="Update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="097e49ea-16c5-4b16-86a1-38e955eff4c5" name="Changes" comment="Updated some parts of code">
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/ExerciseMainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise/ExerciseMainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/MeansOfTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise/MeansOfTransport.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,12 +92,19 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1674372105977</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="Updated some parts of code">
+      <created>1674375665391</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1674375665391</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Updated some parts of code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated some parts of code" />
   </component>
 </project>

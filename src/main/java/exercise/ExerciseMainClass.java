@@ -19,14 +19,14 @@ public class ExerciseMainClass {
         System.out.println("Currently there is " + (double) scaniaS770.cargoLoaded + "Kg of cargo loaded.");
         scaniaS770.loadingCargo(false, 20_000);
         System.out.println("Currently there is " + (double) scaniaS770.cargoLoaded + "Kg of cargo loaded.");
-        scaniaS770.unloadingCargo(true, 11000);
+        scaniaS770.unloadingCargo(true, 21_000);
         System.out.println("Currently there is " + (double) scaniaS770.cargoLoaded + "Kg of cargo loaded.");
 
 
 //      Creating a new engine, S770
         System.out.println("\n====== Engine part ======\n");
         Engine engine = new Engine("S770", 770, 3700);
-        engine.printEngineInfo(1);
+        engine.printEngineInfo(3);
 //        System.out.println(Arrays.toString(engine.engineHpToKw()));
 
 //      Creating a new car, Ferrari

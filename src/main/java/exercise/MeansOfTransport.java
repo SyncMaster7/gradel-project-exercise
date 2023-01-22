@@ -1,10 +1,10 @@
 package exercise;
 
 public abstract class MeansOfTransport {
-    private String mark;
-    private String model;
-    private int yearOfManufacture;
-    private int weight;
+    private final String mark;
+    private final String model;
+    private final int yearOfManufacture;
+    private final int weight;
 
 
     public MeansOfTransport(String mark, String model, int yearOfManufacture, int weight) {
