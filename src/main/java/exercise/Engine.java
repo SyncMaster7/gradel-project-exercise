@@ -20,7 +20,8 @@ public class Engine {
 
         if (choice > 0 && choice <= engineOutputHP.length) {
             System.out.println(engineName[choice - 1] + ", has a power output of " + engineOutputHP[choice - 1] +
-                    "Hp (" + (int) (engineOutputHP[choice -1] * 0.73549875) + "Kw) and " + engineTorque[choice - 1] + "Nm of torque.");
+                    "Hp (" + (int) (engineOutputHP[choice -1] * 0.73549875) + "Kw) and " + engineTorque[choice - 1] +
+                    "Nm of torque.");
         } else {
             System.out.println("Please enter a value from 1 to 4 inc.");
         }

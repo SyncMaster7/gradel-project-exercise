@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="097e49ea-16c5-4b16-86a1-38e955eff4c5" name="Changes" comment="Initial commit" />
+    <list default="true" id="097e49ea-16c5-4b16-86a1-38e955eff4c5" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/CargoHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise/CargoHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/Movement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise/Movement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/PrintingInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise/PrintingInterface.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,13 +41,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ExerciseMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise.ExerciseMainClass" />
@@ -77,7 +83,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1674313670015</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Initial commit">
+      <created>1674314168677</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1674314168677</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
